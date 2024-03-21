@@ -1,7 +1,7 @@
 import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
-import card from "./card.png";
+import creditcard from "./creditcard.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import quotes from "./quotes.svg";
@@ -22,12 +22,13 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import stats from './stats.svg'
 
 export {
   airbnb,
   bill,
   binance,
-  card,
+  creditcard,
   coinbase,
   dropbox,
   quotes,
@@ -48,4 +49,5 @@ export {
   people01,
   people02,
   people03,
+  stats
 };
