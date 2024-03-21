@@ -1,6 +1,6 @@
 import React from "react";
 import styles from './style'
-import { Billing, Business, CardDeal, Clients, CTA, Footer, NavBar, Stats, Testimonials, Hero } from "./components";
+import { Billing, Business, CardDeal, Clients, CTA, Footer, NavBar, Testimonials, Hero } from "./components";
 
 // To transform words into components, click on first one word, hold Alt
 // Keep double-clicking on each new word
