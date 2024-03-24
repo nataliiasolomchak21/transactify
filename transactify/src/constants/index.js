@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: portfolio,
-    title: "Rewards",
+    title: "Exclusive Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Unlock enticing promotions and rewards with the best credit card deals in the market.",
   },
   {
     id: "feature-2",
     icon: handshake,
-    title: "100% Secured",
+    title: "Guaranteed Security",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Rest assured, your information and transactions are safeguarded with our proactive security measures.",
   },
   {
     id: "feature-3",
     icon: statssecond,
-    title: "Balance Transfer",
+    title: "Seamless Balance Transfers",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Save significantly on interest charges with our hassle-free balance transfer credit cards.",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Transactify made finding my ideal credit card deal a breeze. Simple, efficient, and effective!",
+    name: "Jane Smith",
+    title: "CEO",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+      "Thanks to Transactify, managing my finances has never been easier. Highly recommend!",
+    name: "John Doe",
     title: "Founder & Leader",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Transactify simplifies financial management like no other platform. A must-have for anyone serious about their finances.",
+    name: "Alex Lee",
+    title: "CTO",
     img: people03,
   },
 ];

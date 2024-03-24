@@ -6,12 +6,12 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
+        Find a perfect card deal <br className="sm:block hidden" /> in few easy
         steps.
       </h2>
       <p className={`${styles.paragraph} text-white max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Say goodbye to the hassle of endless research and uncertainty – Transactify streamlines the process, 
+      providing you with personalized recommendations and transparent insights. 
       </p>
 
       <Button styles={`mt-10`} />

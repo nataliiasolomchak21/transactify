@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="flex-[1] flex flex-col justify-start mr-10">
       <h1 className={`font-poppins font-semibold cursor-pointer text-[24px] text-white`}>transactify.</h1>
         <p className={`${styles.paragraph} text-white mt-4 max-w-[312px]`}>
-          A new way to make the payments easy, reliable and secure.
+        Discover a fresh approach to making payments: easy, reliable, and secure.
         </p>
       </div>
 

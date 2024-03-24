@@ -22,13 +22,11 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+      Empower your business, <br className="sm:block hidden" /> we'll handle the finances.
       </h2>
       <p className={`${styles.paragraph} text-white max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      Navigating the world of credit cards can be daunting, but Transactify simplifies the process.
+      Build credit, earn rewards, and save money with the right credit card tailored to your needs.
       </p>
 
       <Button styles={`mt-10`} />
